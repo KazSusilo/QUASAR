@@ -1,0 +1,406 @@
+# depslib dependency file v1.0
+1545156294 source:p:\aa.ics3u\summative\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545156294 p:\aa.ics3u\summative\quasar\quasar.h
+
+1545156484 source:p:\aa.ics3u\summative\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545156294 source:p:\aa.ics3u\summative\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545155366 source:p:\aa.ics3u\summative\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545327148 source:p:\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545330961 p:\quasar\quasar.h
+
+1545327141 source:p:\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545327141 source:p:\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1545327680 source:p:\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547054116 source:p:\quasar (1)\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547054072 p:\quasar (1)\quasar\quasar.h
+
+1546887700 source:p:\quasar (1)\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1546887700 source:p:\quasar (1)\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547054072 source:p:\quasar (1)\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547141923 source:p:\aa.ics3u\summative\quasar-20190109t184908z-001\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547059774 p:\aa.ics3u\summative\quasar-20190109t184908z-001\quasar\quasar.h
+
+1547059774 source:p:\aa.ics3u\summative\quasar-20190109t184908z-001\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547059774 source:p:\aa.ics3u\summative\quasar-20190109t184908z-001\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547233664 source:p:\aa.ics3u\summative\quasar-20190109t184908z-001\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547235199 source:p:\alex quasar\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547582118 p:\alex quasar\quasar\quasar.h
+
+1547235199 source:p:\alex quasar\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547661527 source:p:\alex quasar\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547661215 source:p:\alex quasar\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547571219 source:\\ad.ocdsb.ca\studenthome\4\s347086654\alex quasar\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547499418 \\ad.ocdsb.ca\studenthome\4\s347086654\alex quasar\quasar\quasar.h
+
+1547235199 source:\\ad.ocdsb.ca\studenthome\4\s347086654\alex quasar\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547235199 source:\\ad.ocdsb.ca\studenthome\4\s347086654\alex quasar\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547571285 source:\\ad.ocdsb.ca\studenthome\4\s347086654\alex quasar\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547663656 source:p:\aa.ics3u\summative\quasar-20190116t180404z-001\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547663601 p:\aa.ics3u\summative\quasar-20190116t180404z-001\quasar\quasar.h
+
+1547661887 source:p:\aa.ics3u\summative\quasar-20190116t180404z-001\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547661888 source:p:\aa.ics3u\summative\quasar-20190116t180404z-001\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547677468 source:p:\aa.ics3u\summative\quasar-20190116t180404z-001\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547742729 source:p:\alex quasar\new\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547742726 p:\alex quasar\new\quasar\quasar.h
+
+1547742726 source:p:\alex quasar\new\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547742726 source:p:\alex quasar\new\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547745408 source:p:\alex quasar\new\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547835479 source:p:\aa.ics3u\summative\quasar-20190117t184834z-001\quasar\filefunctions.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547835394 p:\aa.ics3u\summative\quasar-20190117t184834z-001\quasar\quasar.h
+
+1547750942 source:p:\aa.ics3u\summative\quasar-20190117t184834z-001\quasar\quasarallegro.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547834126 source:p:\aa.ics3u\summative\quasar-20190117t184834z-001\quasar\quasardisplay.cpp
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
+1547834388 source:p:\aa.ics3u\summative\quasar-20190117t184834z-001\quasar\quasarmain.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"QUASAR.h"
+	<stdlib.h>
+	<time.h>
+
